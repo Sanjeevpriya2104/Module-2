@@ -1,4 +1,4 @@
-## Loops in Python: Palindrome Number Checker
+## 2(e) Loops in Python: Palindrome Number Checker
 
 ## Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
