@@ -9,14 +9,14 @@ To write a Python program to convert the number **16** into its **binary represe
 3. Print the result.
 
 ## Program
-```
-num = 16
-binary_representation = bin(num)
-print("Binary of", num, "is", binary_representation)
+```x=16
+y=bin(x)
+print(y)
 ```
 
 ## Output
-<img width="340" height="157" alt="image" src="https://github.com/user-attachments/assets/fc157ddd-a091-4ee3-ab32-03b345123b8b" />
+<img width="384" height="362" alt="image" src="https://github.com/user-attachments/assets/7714b7ab-d83d-4a68-bd71-bd88a68bbf82" />
+
 
 
 ## Result
